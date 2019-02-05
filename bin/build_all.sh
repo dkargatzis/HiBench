@@ -20,4 +20,4 @@ DIR=`cd "${DIR}/.."; pwd`
 
 CURDIR=`pwd`
 cd $DIR
-mvn clean package
+/home/hadoop/hibench/maven3/bin/mvn clean package
